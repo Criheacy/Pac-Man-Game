@@ -1,0 +1,17 @@
+﻿  game.cpp
+  Ghost.cpp
+  GhostTypes.cpp
+  Ground.cpp
+  Level.cpp
+  LFont.cpp
+  LTexture.cpp
+  LTexture.h
+  Player.cpp
+  Sprite.cpp
+  Gizmo.cpp
+Release\LTexture.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 954 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Pac-Man.vcxproj -> C:\编程相关\大型工程\2020-6-17 Pac-Man\Pac-Man\Release\Pac-Man.exe
