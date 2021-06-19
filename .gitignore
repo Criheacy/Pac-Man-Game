@@ -1,0 +1,8 @@
+# formatting files
+.clang-format
+
+# clion files
+.idea/
+
+# files to implement
+docs/
