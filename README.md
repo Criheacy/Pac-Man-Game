@@ -2,7 +2,7 @@
 
 This a little Pac-Man game implemented using SDL2 library in C++.
 
-
+[简体中文](docs/README-zh.md)
 
 ### How to play?
 
