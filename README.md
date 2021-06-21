@@ -6,7 +6,7 @@ This a little Pac-Man game implemented using SDL2 library in C++.
 
 ### How to play?
 
-Just download the release and execute `Pac-Man.exe` (or `Pac-Man` in Linux).
+Just download the [release](https://github.com/Criheacy/Pac-Man-Game/releases/tag/v0.1.0) and execute `Pac-Man.exe` (or `Pac-Man` in Linux).
 
 Use the up, down, left and right arrow keys on the keyboard to control the character (the "pac-man"). Eat all beans on the screen while avoiding the chase of little ghosts, and the power pellet may save your life in danger. Also don't forget to eat special fruit for bonus!
 
