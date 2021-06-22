@@ -36,7 +36,7 @@ This a little Pac-Man game implemented using SDL2 library in C++.
 </p>
 
 
-- The ghosts AI is similar with that of the original version. It’s an excellent cooperation strategy of enemies, only use very simple algorithm but makes the ghosts chasing the Pacman efficiently. (rendered in debug mode with Gizmos on)
+- The ghosts AI and game mechanics is similar with that of the original version. It’s an excellent cooperation strategy of enemies, only use very simple algorithm but makes the ghosts chasing the Pacman efficiently. (rendered in debug mode with Gizmos on)
 
 <p align="center">
   <img src="docs/README-assets/4.gif"  width="300" height="320.14" />
