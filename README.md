@@ -15,13 +15,13 @@ This a little Pac-Man game implemented using SDL2 library in C++.
 - Use the up, down, left and right arrow keys on the keyboard to control the character (the "pac-man"). Eat all beans on the screen while avoiding the chase of little ghosts, and the "Power Pellet" may save your life in danger!
 
 <p align="center">
-  <img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/1.gif"  width="200" height="200" />
+  <img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/1.gif"  width="300" height="300" />
 </p>
 
 - Don't forget to eat special food for bonus. The harder the level, the higher the bonus score!
 
 <p align="center">
-  <img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/3.gif"  width="200" height="200" />
+  <img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/3.gif"  width="300" height="300" />
 </p>
 
 #### In Code:
@@ -29,13 +29,13 @@ This a little Pac-Man game implemented using SDL2 library in C++.
 - All textures in the game are 8-bit pixel style (can be found in [here](https://github.com/Criheacy/Pac-Man-Game/tree/main/src/res/image)), which simulates the poor hardware conditions clever solutions of Pac-Man games of the last century.
 
 <p align="center">
-  <img src="https://github.com/Criheacy/Pac-Man-Game/blob/main/src/res/image/food.png"  width="200" height="200" />
+  <img src="https://github.com/Criheacy/Pac-Man-Game/blob/main/src/res/image/food.png"  width="300" height="300" />
 </p>
 
 - The ghosts AI is similar with that of the original version. It’s an excellent cooperation strategy of enemies, only use very simple algorithm but makes the ghosts chasing the Pacman efficiently. (rendered in debug mode with Gizmos on)
 
 <p align="center">
-  <img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/4.gif"  width="200" height="200" />
+  <img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/4.gif"  width="300" height="300" />
 </p>
 
 
