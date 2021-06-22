@@ -1,6 +1,6 @@
 # ![Pac-Man-icon](src/res/image/icon.png) Pac-Man Game
 <p align="center">
-  <img src="<img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/pac-man.png"  width="200" height="400" />
+  <img src="<img src="https://github.com/utkarsh0908/Pac-Man-Game/blob/main/docs/README-assets/pac-man.png"  />
 </p>
 
 
