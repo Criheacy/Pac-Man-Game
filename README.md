@@ -1,6 +1,6 @@
 # ![Pac-Man-icon](src/res/image/icon.png) Pac-Man Game
 
-![pac-man](docs/README-assets/pac-man.png)
+<img align = "center" >![pac-man](docs/README-assets/pac-man.png)
 
 This a little Pac-Man game implemented using SDL2 library in C++.
 
